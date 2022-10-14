@@ -9,7 +9,7 @@ UM POUCO SOBRE MIM:
 - 📫 Especialista
 
 <div>
-  <a href="https://twitter.com/Lu_Gacosta">
+  <a href="https://twitter.com/Lu_Gacosta"></a>
   
   
   
