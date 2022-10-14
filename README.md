@@ -8,3 +8,11 @@ UM POUCO SOBRE MIM:
 - 💬 Tecnólogo em Gestão de TI
 - 📫 Especialista
 
+<div>
+  <a href="https://twitter.com/Lu_Gacosta">
+  
+  
+  
+  
+  
+</div>
