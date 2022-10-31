@@ -5,14 +5,14 @@ UM POUCO SOBRE MIM:
 - 🌱 Técnico em Laboratório de Informática
 - 👯 Estudante
 - 🤔 Iniciante em Programação
-- 🐱‍🚀 Técnico em Informática
+- 🚀 Técnico em Informática
 - 💬 Tecnólogo em Gestão de TI
 - 📫 Pós graduado em Redes de Computadores
 
 <div>
   <a href="https://github.com/Luan-Paulo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Paulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Paulo&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Paulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Paulo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
