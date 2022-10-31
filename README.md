@@ -5,6 +5,7 @@ UM POUCO SOBRE MIM:
 - 🌱 Técnico em Laboratório de Informática
 - 👯 Estudante
 - 🤔 Iniciante em Programação
+- 🐱‍🚀 Técnico em Informática
 - 💬 Tecnólogo em Gestão de TI
 - 📫 Pós graduado em Redes de Computadores
 
